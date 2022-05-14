@@ -1,4 +1,5 @@
 /**
+ * basic server setup
  * 1.create a folder (manually or npm mkdir dia project kholbo)
  * 2.open command line that folder
  * 3.npm  init
@@ -14,4 +15,8 @@
  * 5. listen to port
  *6. node index.js ei command dibo command line.
  * 7. check my browser for that port
+ * ------------------------
+ * for get
+ * ------------------------
+ * 1.cors middlware
  */
